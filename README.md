@@ -8,11 +8,11 @@ Kurikulum Materi
 - Basic Class
 - Property & method
 - Instasiasi Class
-- Static property & method
-- Abstract Class
 - Constructor
+- Static property & method
 - setter dan getter
 - Inheritance
+- Abstract Class
 - Method Super
 - Overriding Method
 - Visibility
